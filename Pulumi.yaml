@@ -1,0 +1,6 @@
+name: pulumi-k8s
+runtime:
+  name: nodejs
+  options:
+    typescript: false
+description: pulumi k8s resource learning

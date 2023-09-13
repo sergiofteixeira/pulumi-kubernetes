@@ -1,0 +1,8 @@
+{
+    "name": "pulumi-k8s",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/kubernetes": "^4.1.1",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
